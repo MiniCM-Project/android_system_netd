@@ -19,6 +19,7 @@
 
 
 extern const char * const IPTABLES_PATH;
+extern const char * const IP6TABLES_PATH;
 extern const char * const IP_PATH;
 extern const char * const TC_PATH;
 extern const char * const OEM_SCRIPT_PATH;
